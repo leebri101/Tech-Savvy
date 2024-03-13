@@ -1,8 +1,7 @@
 # **Tech-Savvy**
-## **Site Overview**
+## **Site Preview**
 
 ## Contents-Page:
-1. [**Site Overview**](#site-overview)
 1. [**Project-Planning**](#project-planning)
     * [**Target Audiences:**](#target-audiences)
     * [**User Stories**](#user-stories)
