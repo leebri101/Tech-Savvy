@@ -107,9 +107,9 @@ Changes include:-
 ![Mobile-version](doc/screenshots/mobile-version.png)
 
 #### *Start Game Section:*
-* The start game section has an autofocus placeholder on the text box which allows for more accessibilty to the user, which is useful on mobile devices as the text cursor is already highlighted in the text box which saves time for the user to manually navigate to it as. 
+* The start game section has an autofocus placeholder on the text box which allows for more accessbilty to the user, which is useful on mobile devices as the text cursor is already highlighted in the text box which saves time for the user to manually navigate to it as. 
 * Two interactive buttons for the user to input one of which is the Start Game, which upon text input and clicking the button will send the user to commence the geography quiz. The Quit button will send the user back to the main screen where the CTA button is displayed.
-* A error handler which diplays a red border in the text box if the user hasn't provided any sort of text or name.
+* A error handler which dilays a red border in the text box if the user hasn't provided any sort of text or name.
 * An event listener where the user can press the ENTER key which has the same response as clicking the Start game button. 
 
   ![Start Game Section](doc/screenshots/placeholder-input.png)
