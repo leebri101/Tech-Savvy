@@ -203,15 +203,11 @@ The second project was a very interesting but difficult challenge, which tested 
 * All fonts used have been imported from - [Google-Fonts](https://fonts.google.com/)
 
 ### **Media:**
-* Background image on the landing-page: [World-Globe](https://www.wallpaperflare.com/globe-world-map-earth-global-travel-planet-geography-wallpaper-akzmf/download)
-* Favicon for tab of page on index.html: [Favicon-Globe](https://www.flaticon.com/free-icon/earth-globe_616616)
+<!--* Background image on the landing-page: [World-Globe](https://www.wallpaperflare.com/globe-world-map-earth-global-travel-planet-geography-wallpaper-akzmf/download)-->
+* Favicon generator for index.html: [Favicon-Pro](https://www.favicon.pro/)
 * General RGB color Table used in style.css: [RGB-Table](https://www.rapidtables.com/web/color/RGB_Color.html)
 * Image compressions: [TinyPNG](https://tinypng.com/) 
 * Colored grid scheme: [EightShapes](https://contrast-grid.eightshapes.com/)
-* Britannica-quizes for overall design idea and theme: [Britanica](https://www.britannica.com/quiz/name-that-world-flag)
 * Webcode Tools for general key frame animation use: [Webcode.Tools](https://webcode.tools/generators/css/keyframe-animation?utm_content=cmp-true)
 * HubSpot for different styling of animations on CSS: [HubSpot](https://blog.hubspot.com/website/css-hover-animation)
-* World Population Review as a general reference to check information for the quiz: [WorldPopulationReview](
-https://worldpopulationreview.com/country-rankings/smallest-countries)
-* RapidTables for general encyclopedia for searching for colour themes: [RapidTables](https://www.rapidtables.com/web/color/RGB_Color.html)
-* Mike Bostock's incredible method of shuffling: [Fisher-Yates](https://bost.ocks.org/mike/shuffle/)
+* RapidTables for general encyclopedia for searching for color themes: [RapidTables](https://www.rapidtables.com/web/color/RGB_Color.html)
