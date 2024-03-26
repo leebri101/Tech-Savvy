@@ -37,7 +37,7 @@
 * For users who want inspiration for a personal portfolio design.
 
 ### **Site Objectives:**
-* Allowing users to know of short fun facts about geography.
+* Allowing users to able use and view projects and get in touch i.
 * Educating the user on using this as a fun way of educating themselves.
 
 ### **User Stories:**
@@ -159,7 +159,7 @@ Features used:
 * Fonts that have used in the project have been sourced from Google Fonts (quoted in the credits).
 
 ## **Potential-Features**
-* Due to the project deadlines being in a very tight timeframe the project had to be scaled down to a more simpler version of the geography quiz but these are the features that I would like to potentially add or implement in the near future:
+* 
     * An interactive version with sounds and unique animations.
     * Potentially adding a leaderboard system/table to challenge and rival other users.
     * A narration voice over for all the questions and answers for users with disablity issues.
@@ -198,13 +198,14 @@ for very interesting but difficult challenge, which tested my understanding of H
 ### **Content:**
 * All icons that were used throughout the project are sourced from [Font-Awesome](https://fontawesome.com/)
 * All fonts used have been imported from - [Google-Fonts](https://fonts.google.com/)
-
+-->
 ### **Media:**
-
+* Contact page inspiration [Asana](https://asana.com/sales)
 * Favicon generator for index.html: [Favicon-Pro](https://www.favicon.pro/)
+* [GiSketch](https://gisketch.com/) for inspiration for the unique word animations and theme of coding. 
 * General RGB color Table used in style.css: [RGB-Table](https://www.rapidtables.com/web/color/RGB_Color.html)
 * Image compressions: [TinyPNG](https://tinypng.com/) 
 * Colored grid scheme: [EightShapes](https://contrast-grid.eightshapes.com/)
-* Webcode Tools for general key frame animation use: [Webcode.Tools](https://webcode.tools/generators/css/keyframe-animation?utm_content=cmp-true)
 * HubSpot for different styling of animations on CSS: [HubSpot](https://blog.hubspot.com/website/css-hover-animation)
 * RapidTables for general encyclopedia for searching for color themes: [RapidTables](https://www.rapidtables.com/web/color/RGB_Color.html)
+* [Figma](https://www.figma.com/?fuid=) for the basic and simple wire-frame design as a professional and practical project planning platform. 
