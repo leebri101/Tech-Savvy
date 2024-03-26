@@ -58,24 +58,23 @@ improve/enhance the quiz to the owner.
 ### **WireFrames:**
 * In order to prevent any digression to project aim & objectives I have made a few wire frames as a plan to refer back to from in case of any major changes.
 
-[Wireframes](doc/wireframes/) were all designed in Balsamiq desktop.
-* [Desktop-Landing-Page](doc/wireframes/desktop-landing-page.png)
-* [Desktop-Quiz-Page](doc/wireframes/desktop-quiz-page.png)
-* [Desktop-Results-Page](doc/wireframes/desktop-results-page.png)
-* [Mobile-Landing-Page](doc/wireframes/mobile-landing-page.png)
-* [Mobile-Quiz-Page](doc/wireframes/mobile-quiz-page.png)
+[Wireframe](doc/wireframe/) were all designed in Figma for a more simpler design.
+* [Home Page](doc/wireframe/home.png)
+* [About Me Page](doc/wireframe/about.png)
+* [Skills Page](doc/wireframe/skills.png)
+* [Projects Page](doc/wireframe/projects.png)
+* [Contact Page](doc/wireframe/contact.png)
 
-There was small changes from the planned wireframes to enhance the UX (User Experience). 
-Changes include:-
+There was small changes the planned design of the static site however most of it was kept to teh original look but only with minor cosmetic changes,  which include:-
 * An interactive CTA play button which is changes color upon hovering.
 * A placeholder on the start-game section text box for players to input their names and warning to users if they start the game with no input in the text box.
 * An animation on the timer clock which shows a small stop watch shake after each second to indicate the user that time is ticking.
 * A hover animation over the 4 different choices of answers within the answers section of the quiz which change color whilst the animation occurs.
-* The results page having a box which shows the player's score and a coloured gradient on the border of the box which constantly spins aorund the edge of the box.
+* The results page having a box which shows the player's score and a coloured gradient on the border of the box which constantly spins around the edge of the box.
 * A small Favicon to act as an icon for the webpage.
 
 ### **Color Scheme:**
- * When creating the design of the quiz site I have went with this colour scheme to match the overall theme of georgraphy with the colors of the earth having blue and green elements.  
+ * When creating the design of the quiz site I have went with this color scheme to match the overall theme of georgraphy with the colors of the earth having blue and green elements.  
 
  ![Contrast Grid](doc/screenshots/color-scheme.png)
 
@@ -187,12 +186,10 @@ You can visit the live link via this URL - [Geographically Challenged](https://l
 
  ## **Credits**
 ### **Honorable mentions**
-The second project was a very interesting but difficult challenge, which tested my understanding of HTML & CSS but to incorperate JavaScript too. However the more stuff that was being introduced to the project the more simpler and effective the project became due to time restraints of the course, but nonetheless it is a good way to show what i can do, but i must credit the following people:
- * [Can Sucullu](https://github.com/cansucullu) - My Code Institute mentor who is incredible at giving me insite and suggestions on further improving my project and is a huge help to continuously support me for any sort of technical issues within the project.
-* The Slack community of Code Institute for helping me with JavaScript module as it is somewhat challenging due to the deadline and questions on the module.
-* Code Institute Tutors for assisting me with the technical aspects of the project i.e the intergation from Gitpod to codeanywhere and general assitance to coding problems. 
+This project was a nice refresher for my self to be able to gauge at how much i have improved from when i first started with little to no knowledge of coding to enjoying the challenges it brings me and for giving me the creative freedom to go beyond. However this will be an ongoing self improving static site, as with each coding language that is being covered it will may or may not be potentially be implemented into the project portfolio.
+for very interesting but difficult challenge, which tested my understanding of HTML & CSS but to incorperate JavaScript too. However the more stuff that was being introduced to the project the more simpler and effective the project became due to time restraints of the course, but nonetheless it is a good way to show what i can do, but i must credit the following people:
+ * John Lamontagne My Code Institute mentor who is incredible at giving me insite and suggestions on further improving my project and is a huge help to continuously support me for any sort of technical issues within the project.
 * My older brother for always being available for being a personal guinea pig for my projects (and with many more to come) and giving me constant constructive feedback all the time.
-* Huge thanks to my girlfriend for the constant support and nagging me to stay focussed whenever i get distacted and also giving me useful advice and insight.
 
 ### **General reference:**
 * The project theme was inspired by the Code Institute's coding project called Love Maths. I have tried to change as much as possible but there may be some similarties within the codes.
