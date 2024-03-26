@@ -21,7 +21,7 @@
     * [**Point-Tracker**](#point-tracker)
     * [**Results-Section**](#results-section)
     * [**Footer**](#footer)
-    * [**Typsetting**](#typesetting)
+    * [**Typesetting**](#typesetting)
 1. [**Potential-Features**](#future-enhancements)
 1. [**Testing Phase**](#testing-phase)
 1. [**Deployment**](#deployment)
@@ -37,8 +37,8 @@
 * For users who want inspiration for a personal portfolio design.
 
 ### **Site Objectives:**
-* Allowing users to able use and view projects and get in touch i.
-* Educating the user on using this as a fun way of educating themselves.
+* Allowing users to able use and view projects and get in touch with the owner of the site. 
+* To create a simple, effective and user-friendly site which clients and employers can navigate with.
 
 ### **User Stories:**
 * As a user I want to be abel to navigate the page with ease.
@@ -47,7 +47,7 @@
 * as a user I want the quiz to be as simple easy to understand.
 
 ### **How will this be achieved:**
-* The landing page with have a simple CTA (Call To Action) input button at which the user must ineteract with to continue the quiz.
+* The landing page with have a simple CTA (Call To Action) input button at which the user must interact with to continue the quiz.
 * The page will have the following things:
     * A large coloured CTA play button at which when the user/player hovers over, a small animation will occur and change colors briefly tempting the user to click it which leads to a different pop up to appear.
     * A small text box which the user has to input their name to start the quiz, if nothing has been inputted the quiz cannot start.
