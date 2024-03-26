@@ -33,16 +33,15 @@
 
 ## **Project Planning**
 ### **Target Audiences:**
-* For users who are interesting in a playing short games.
-* For users who are learning about geography.
+* For potential clients and employers to present to about showcasing my personal portfolio.
+* For users who want inspiration for a personal portfolio design.
 
 ### **Site Objectives:**
 * Allowing users to know of short fun facts about geography.
 * Educating the user on using this as a fun way of educating themselves.
 
 ### **User Stories:**
-* As a user I want to give feedback via the given social media links to further 
-improve/enhance the quiz to the owner.
+* As a user I want to be abel to navigate the page with ease.
 * As a user I want to be able to easily navigate the quiz with ease.
 * As a user I want have fun on short quiz without being bored.
 * as a user I want the quiz to be as simple easy to understand.
@@ -50,21 +49,22 @@ improve/enhance the quiz to the owner.
 ### **How will this be achieved:**
 * The landing page with have a simple CTA (Call To Action) input button at which the user must ineteract with to continue the quiz.
 * The page will have the following things:
-    * A large coloured CTA play button at which when the user/player hovers over, a small animation will occur and change colours briefly tempting the user to click it which leads to a different pop up to appear.
+    * A large coloured CTA play button at which when the user/player hovers over, a small animation will occur and change colors briefly tempting the user to click it which leads to a different pop up to appear.
     * A small text box which the user has to input their name to start the quiz, if nothing has been inputted the quiz cannot start.
     * A series of questions out of ten which displays the question, and four different options at which the user must pick one correct answer to see if it is correct or not.
     * A results page which gives feedback to players as to how many questions they have answered correctly out of 10. 
     
 ### **WireFrames:**
-* In order to prevent any digression to project aim & objectives I have made a few wire frames as a plan to refer back to from in case of any major changes.
+* To prevent any digressions towards the project aims & objectives I have made a basic wire-frame via [Figma](https://www.figma.com/file/uAbTphZwZsXFHnrtA8asCY/Welcome-to-FigJam?type=whiteboard&node-id=0%3A1&t=YDDw9WSsovAuHcRM-1) to refer back to in case of any major changes to the project. 
 
-[Wireframe](doc/wireframe/) were all designed in Figma for a more simpler design.
+[Wire-frame](doc/wireframe/) were all designed in Figma for a more simpler design.
 * [Home Page](doc/wireframe/home.png)
 * [About Me Page](doc/wireframe/about.png)
 * [Skills Page](doc/wireframe/skills.png)
 * [Projects Page](doc/wireframe/projects.png)
 * [Contact Page](doc/wireframe/contact.png)
 
+<!-->
 There was small changes the planned design of the static site however most of it was kept to teh original look but only with minor cosmetic changes,  which include:-
 * An interactive CTA play button which is changes color upon hovering.
 * A placeholder on the start-game section text box for players to input their names and warning to users if they start the game with no input in the text box.
@@ -80,9 +80,9 @@ There was small changes the planned design of the static site however most of it
 
 ### **Reused Code:**
 * Some code has been re-used in from the first milestone project due to the simplicity and effectiveness it has on the overall layout of the final design.
-    * Which one of any said weblinks have an original colours.
-    * Upon hovering over it or clicking it will change colours. 
-    * After visting the said weblink it will change to a secondary color. With the hover effect in place.
+    * Which one of any said web-links have an original colous.
+    * Upon hovering over it or clicking it will change colors. 
+    * After visiting the said web-link it will change to a secondary color. With the hover effect in place.
 ![Reused Code](doc/screenshots/reused-code.png)
 
 ## **Current Features on all pages**
@@ -200,7 +200,7 @@ for very interesting but difficult challenge, which tested my understanding of H
 * All fonts used have been imported from - [Google-Fonts](https://fonts.google.com/)
 
 ### **Media:**
-<!--* Background image on the landing-page: [World-Globe](https://www.wallpaperflare.com/globe-world-map-earth-global-travel-planet-geography-wallpaper-akzmf/download)-->
+
 * Favicon generator for index.html: [Favicon-Pro](https://www.favicon.pro/)
 * General RGB color Table used in style.css: [RGB-Table](https://www.rapidtables.com/web/color/RGB_Color.html)
 * Image compressions: [TinyPNG](https://tinypng.com/) 
