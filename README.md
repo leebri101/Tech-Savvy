@@ -205,3 +205,6 @@ for very interesting but difficult challenge, which tested my understanding of H
 * HubSpot for different styling of animations on CSS: [HubSpot](https://blog.hubspot.com/website/css-hover-animation)
 * RapidTables for general encyclopedia for searching for color themes: [RapidTables](https://www.rapidtables.com/web/color/RGB_Color.html)
 * [Figma](https://www.figma.com/?fuid=) for the basic and simple wire-frame design as a professional and practical project planning platform. 
+<!-->
+* (https://www.eggradients.com/gradient/thin-saz)
+*
