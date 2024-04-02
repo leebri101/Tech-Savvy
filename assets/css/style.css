@@ -4,26 +4,55 @@
 
 h1{
     font-family: 'Orbitron', sans-serif;
-    font-size: 2.5em;
-    color: #fff;
+    font-size: 3em;
+    color: #e0e0e0;
     text-align: center;
     padding: 10px;
 }
+
+.animated {
+    animation: animation 3s ease ;
+  }
+  
+  @keyframes animation {
+    from {
+      letter-spacing: 15px;
+    }
+    to {
+      letter-spacing: 0;
+    }
+  }
+  
 body{
     font-family: 'Electrolize', sans-serif;
-    color: #fff;
+    color: #e0e0e0;
     background-color: #7ed6df;
     background: linear-gradient(315deg, #7ed6df 0%, #000000 74%);
 }
 footer{
-    color: #fff;
+    color: #e0e0e0;
     font-family: 'Orbitron', sans-serif;
-    font-size: 0.75em;
+    font-size: 0.8em;
 }
-.links{
+#links{
     text-align: right;
+    letter-spacing: 1.5px;
+    font-size: 1.1em;
+}
+#links a{
+    color: #d4b454;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+#links a:hover{
+    color: #f7f7f7;
 }
 
+#links:hover, 
+#links:focus{
+    color: #e1e1e1;
+}
+/* social media styling */
 .social-media{
     text-align: center;
     padding: 10px;
@@ -39,3 +68,52 @@ footer{
     padding: 5%;
     color: #c5376f;
 }
+
+
+a {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 2rem;
+    color: #eee;
+  }
+  
+  ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 1rem;
+    list-style-type: none;
+    font-size: 2rem;
+  }
+  
+  ul li {
+    padding: 1rem;
+  }
+  
+  .fab {
+    font-size: 2rem;
+  }
+  
+  /* transitions for social media hover animations */
+  .fa-github,
+  .fa-linkedin {
+    transition: 0.5s;
+    cursor: pointer;
+  }
+  
+  /* social media hover colors */
+  .fa-github:hover,
+  .fa-github:focus {
+    color: #7e7e7e;
+    transform: scale(1.1);
+  }
+  
+  .fa-linkedin:hover,
+  .fa-linkedin:focus {
+    color: #0077b5;
+    transform: scale(1.1);
+  }
+  
+
+  
