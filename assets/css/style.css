@@ -1,0 +1,15 @@
+/*.social-media{
+    text-align: center;
+    padding: 10px;
+}
+
+.social-media > li{
+    display: inline;
+}
+
+.social-media > i{
+    font-size: 200%;
+    margin: 1%;
+    padding: 5%;
+    color: #c5376f;
+}
