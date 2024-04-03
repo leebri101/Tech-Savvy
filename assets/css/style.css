@@ -30,7 +30,7 @@ h2 {
   }
 }
 
-/* Body styling */
+/* Body styling with animations*/
 body {
   color: #e0e0e0;
   background: linear-gradient(28deg, #73c2ca, #333333, #124e8c);
@@ -45,7 +45,6 @@ body {
     100% { background-position: 0% 99%; }
   } 
   
-
 /* Footer styling */
 footer {
   color: #e0e0e0;
