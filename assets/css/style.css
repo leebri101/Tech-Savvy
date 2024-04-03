@@ -29,7 +29,12 @@ h2 {
   padding: 10px;
 }
 
-p{}
+p{
+  font-family: 'Electrolize', sans-serif;
+  color:#e0e0e0;
+  text-align: center;
+  padding:15px 10px;
+}
 
 
 /* Body styling with animations*/
@@ -52,6 +57,7 @@ footer {
   color: #e0e0e0;
   font-family: 'Orbitron', sans-serif;
   font-size: 0.8em;
+  text-align: center;
 }
 
 hr{
@@ -67,16 +73,16 @@ hr{
   letter-spacing: 1.5px;
   font-size: 1.1em;
   font-family: "Electrolize", sans-serif;
+  color: #d4b454;
 }
 
 #links a {
-  color: #d4b454;
   text-decoration: none;
   font-size: 1.1em;
 }
 
 #links a:hover {
-  color: #f7f7f7;
+  color: #d4b454;
 }
 
 #links:hover,
@@ -146,4 +152,37 @@ a {
     transform: scale(1.1);
   }
 
+  .landing-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: rgba(0, 31, 63, 0.45);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
 
+
+/* Container for the buttons */
+.btn-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+/* Button styling */
+.btn {
+  font-family: 'Orbitron', sans-serif;
+  display: inline-block;
+  padding: 10px 10px;
+  font-size: 1.2em;
+  text-align: center;
+  text-decoration: none;
+  background-color: #5aa2ab;
+  color: #fff;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #c5376f;
+}
