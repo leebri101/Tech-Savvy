@@ -9,14 +9,6 @@ h1 {
   text-align: center;
   padding: 10px;
 }
-
-h2 {
-  font-family: 'Orbitron', sans-serif;
-  color: #e0e0e0;
-  text-align: center;
-  padding: 10px;
-}
-
 .animated {
   animation: animation 3s ease;
 }
@@ -30,10 +22,20 @@ h2 {
   }
 }
 
+h2 {
+  font-family: 'Orbitron', sans-serif;
+  color: #e0e0e0;
+  text-align: center;
+  padding: 10px;
+}
+
+p{}
+
+
 /* Body styling with animations*/
 body {
   color: #e0e0e0;
-  background: linear-gradient(28deg, #73c2ca, #333333, #001f3f);
+  background: linear-gradient(28deg, #3d6b71 0%, #272727 70%);
   background-size: 600% 600%;
   animation: AnimationName 10s ease infinite;
   height: 100vh;
@@ -50,6 +52,13 @@ footer {
   color: #e0e0e0;
   font-family: 'Orbitron', sans-serif;
   font-size: 0.8em;
+}
+
+hr{
+  border: 0;
+  height: 3px;
+  background: #e0e0e0;
+  background-image: linear-gradient(to right, #333333, #5aa2ab);
 }
 
 /* Navigation styling */
@@ -136,3 +145,5 @@ a {
     color: #0077b5;
     transform: scale(1.1);
   }
+
+
