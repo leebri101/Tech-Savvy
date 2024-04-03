@@ -33,22 +33,18 @@ h2 {
 /* Body styling */
 body {
   color: #e0e0e0;
-  background-color: #7ed6df;
+  background: linear-gradient(28deg, #73c2ca, #333333, #124e8c);
+  background-size: 600% 600%;
+  animation: AnimationName 10s ease infinite;
   height: 100vh;
-  animation: backgroundAnimation 5s infinite;
 }
 
-@keyframes backgroundAnimation {
-  0% {
-    background-color: #7ed6df;
-  }
-  50% {
-    background-color: #000000;
-  }
-  100% {
-    background-color: #333333;
-  }
-}
+  @keyframes AnimationName {
+    0% { background-position: 0% 99%; }
+    50% { background-position: 100% 2%; }
+    100% { background-position: 0% 99%; }
+  } 
+  
 
 /* Footer styling */
 footer {
