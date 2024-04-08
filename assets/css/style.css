@@ -152,14 +152,14 @@ a {
     transform: scale(1.1);
   }
 
-  .landing-content {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 50px;
-    background-color: rgba(0, 31, 63, 0.45);
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  }
+.landing-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: rgba(0, 31, 63, 0.45);
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
 
 
 /* Container for the buttons */
