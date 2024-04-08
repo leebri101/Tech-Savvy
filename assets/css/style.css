@@ -184,5 +184,7 @@ a {
 }
 
 .btn:hover {
-  background-color: #c5376f;
+  background-color: #12244f;
+  color: #fff;
+  transition: background-color 0.5s ease-out 100ms;
 }
