@@ -182,28 +182,12 @@ a {
   transition: background-color 0.3s ease;
 }
 
+/* Button hover styling */
 .btn:hover {
   background-color: #12244f;
   color: #fff;
   transition: background-color 0.5s ease-out 100ms;
 }
 
-/* Slideshow styling */
-* {
-  box-sizing: border-box
-}
-.slideshow {
-max-width: 100vh;
-position: relative;
-margin: auto;
-}
-image {
-width: 100%;
-animation-name: fade;
-animation-duration: 2s;
-}
 
-@keyframes image {
-from {opacity: .5}
-to {opacity: 1}
-}
+
