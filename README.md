@@ -210,3 +210,4 @@ for very interesting but difficult challenge, which tested my understanding of H
 * (https://nekocalc.com/px-to-rem-converter)px to rem converter
 * (https://www.gradient-animator.com/) css linear gradient animator
 * (https://unsplash.com/) image source finder
+* (https://convertio.co/) image compress/converter
