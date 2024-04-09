@@ -208,7 +208,7 @@ for very interesting but difficult challenge, which tested my understanding of H
 <!-->
 * (https://www.eggradients.com/gradient/thin-saz)
 * (https://nekocalc.com/px-to-rem-converter)px to rem converter
-* (https://codepen.io/baarbaracrr/pen/KKovmGb) css linear gradient animator via codepen
+* (https://codepen.io/baarbaracrr/pen/KKovmGb) css linear gradient animator via CodePen
 * (https://unsplash.com/) image source finder
 * (https://convertio.co/) image compress/converter
-* (https://codepen.io/mattfried/pen/LJNXVz) animated slideshow
+* (https://codepen.io/mattfried/pen/LJNXVz) Animated slideshow
