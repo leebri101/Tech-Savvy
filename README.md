@@ -211,3 +211,4 @@ for very interesting but difficult challenge, which tested my understanding of H
 * (https://codepen.io/baarbaracrr/pen/KKovmGb) css linear gradient animator via codepen
 * (https://unsplash.com/) image source finder
 * (https://convertio.co/) image compress/converter
+* (https://codepen.io/mattfried/pen/LJNXVz) animated slideshow
