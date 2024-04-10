@@ -29,6 +29,12 @@ h2 {
   padding: 10px;
 }
 
+h3{
+  font-family: 'Electrolize', sans-serif;
+  color: #e0e0e0;
+  text-align: center;
+  padding: 10px;
+}
 p{
   font-family: 'Electrolize', sans-serif;
   color:#e0e0e0;
