@@ -38,17 +38,23 @@
         </div>
         <section>
         <!--Slideshow container-->
-        <div class="slideshowContainer">
-              <img class="imageSlides" src="assets/images/lights.webp" alt="Lights">
-              <img class="imageSlides" src="assets/images/code.webp" alt="code-image">
-              <img class="imageSlides" src="assets/images/retro-pc.webp" alt="Retro-wallpaper">
-            <!-- Slideshow dot indicator. -->
-              <div class="slideshowCircles">
-                <span class="circle dot"></span>
-                <span class="circle"></span>
-                <span class="circle"></span>
-              </div>
-        </div>
+        <!-- Contact Form -->
+        <form action="submit_contact_form.php" method="POST">
+            <h3>Contact Me</h3>
+            <div>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            <div>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+            </div>
+            <button type="submit">Submit</button>
+        </form>
         </section> 
     </div>
     <!--Footer & Social Media-->
