@@ -8,6 +8,7 @@ h1 {
   color: #e0e0e0;
   text-align: center;
   padding: 10px;
+  text-shadow: rgba(19,112,106,1) 2px 2px 0;
 }
 .animated {
   animation: animation 3s ease;
