@@ -1,3 +1,4 @@
+// Window scroll event listener
 window.addEventListener('scroll', function() {
     console.log('scrolling');
 });
@@ -17,6 +18,7 @@ function loop() {
 } 
 loop();
 
+// jQuery fuctionality
 function isElementInViewport(el) {
     if (typeof jQuery === "function" && el instanceof jQuery) {
         el = el[0];
