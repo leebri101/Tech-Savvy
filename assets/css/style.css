@@ -43,6 +43,10 @@ p{
   padding:15px 10px;
 }
 
+strong{
+  font-weight: bolder;
+  font-size: 1.2em;
+}
 
 /* Body styling with animations*/
 body {
