@@ -34,13 +34,14 @@ h3{
   font-family: 'Electrolize', sans-serif;
   color: #e0e0e0;
   text-align: center;
-  padding: 10px;
+  padding: 2.5px;
 }
 p{
   font-family: 'Electrolize', sans-serif;
   color:#e0e0e0;
   text-align: center;
-  padding:15px 10px;
+  text-wrap: wrap;
+  padding:10px 5px;
 }
 
 strong{
