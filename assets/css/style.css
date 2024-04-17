@@ -7,7 +7,7 @@ h1 {
   font-size: 3em;
   color: #e0e0e0;
   text-align: center;
-  padding: 10px;
+  padding: 15px;
   text-shadow: rgba(19,112,106,1) 2px 2px 0;
 }
 .animated {
@@ -123,15 +123,22 @@ body {
   }
 }
 
-
+/* Logo styling */
 #logo {
-  position: absolute;
-  text-decoration: none;
+  position: static;
   height: auto;   
   width: auto; 
   float: left;
   background-size: contain;
 }
+/* Logo styling for smaller media screen */
+@media screen and (max-width: 600px) {
+  #logo {
+    width: 100px;
+    height: 100px;
+  }
+}
+
 /* Footer styling */
 footer {
   color: #e0e0e0;
