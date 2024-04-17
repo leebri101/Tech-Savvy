@@ -125,9 +125,9 @@ body {
 
 /* Logo styling */
 #logo {
-  position: static;
-  height: auto;   
-  width: auto; 
+  position: absolute;
+  height: 125px;   
+  width: 150px; 
   float: left;
   background-size: contain;
 }
