@@ -212,3 +212,4 @@ for very interesting but difficult challenge, which tested my understanding of H
 * (https://unsplash.com/) image source finder
 * (https://convertio.co/) image compress/converter
 * (https://codepen.io/mattfried/pen/LJNXVz) Animated slideshow
+* (https://armoredcore.fandom.com/wiki/ARMORED_CORE_VI_FIRES_OF_RUBICON/Emblems) armored core 6 logo 
