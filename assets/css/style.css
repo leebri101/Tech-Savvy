@@ -13,7 +13,7 @@ h1 {
 .animated {
   animation: animation 3s ease;
 }
-
+/* heading animation */
 @keyframes animation {
   from {
     letter-spacing: 15px;
@@ -122,7 +122,16 @@ body {
       transform: translateX(1);
   }
 }
-  
+
+.logo {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 50px;
+  height: 50px;
+  background-image: url('assets/images/nightfall.webp');
+  background-size: cover;
+}
 /* Footer styling */
 footer {
   color: #e0e0e0;
