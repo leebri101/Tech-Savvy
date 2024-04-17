@@ -131,13 +131,6 @@ body {
   float: left;
   background-size: contain;
 }
-/* Logo styling for smaller media screen */
-@media screen and (max-width: 600px) {
-  #logo {
-    width: 100px;
-    height: 100px;
-  }
-}
 
 /* Footer styling */
 footer {
@@ -199,45 +192,45 @@ a {
   margin-top: 5%;
   margin-bottom: 2rem;
   color: #eee;
-  }
-  
-  ul {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    margin: 1rem;
-    list-style-type: none;
-    font-size: 2rem;
-  }
-  
-  ul li {
-    padding: 1rem;
-  }
-  
-  .fab {
-    font-size: 2rem;
-  }
-  
-  /* transitions for social media hover animations */
-  .fa-github,
-  .fa-linkedin {
-    transition: 0.5s;
-    cursor: pointer;
-  }
-  
-  /* social media hover colors */
-  .fa-github:hover,
-  .fa-github:focus {
-    color: #7e7e7e;
-    transform: scale(1.1);
-  }
-  
-  .fa-linkedin:hover,
-  .fa-linkedin:focus {
-    color: #0077b5;
-    transform: scale(1.1);
-  }
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 1rem;
+  list-style-type: none;
+  font-size: 2rem;
+}
+
+ul li {
+  padding: 1rem;
+}
+
+.fab {
+  font-size: 2rem;
+}
+
+/* transitions for social media hover animations */
+.fa-github,
+.fa-linkedin {
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+/* social media hover colors */
+.fa-github:hover,
+.fa-github:focus {
+  color: #7e7e7e;
+  transform: scale(1.1);
+}
+
+.fa-linkedin:hover,
+.fa-linkedin:focus {
+  color: #0077b5;
+  transform: scale(1.1);
+}
 
 .landing-content {
   max-width: 800px;
@@ -325,3 +318,40 @@ a {
   background-color: rgba(255, 255, 255, 0.7);
   border: solid 2px rgba(255, 255, 255, 0.5);
 }
+
+
+@media screen and (max-width: 600px) {
+  .landing-content {
+    font-size: 16px;
+  }
+  
+  /* Logo styling for smaller media screen */
+  #logo {
+    width: 80px;
+    height: 80px;
+  }
+
+  body {
+    font-size: 10px;
+  }
+
+  .btn {
+    font-size: 1.2em;
+  }
+
+  .slideshowContainer {
+    height: 300px;
+  }
+
+    @media screen and (max-width: 600px) {
+      .circle {
+        width: 10px;
+        height: 10px;
+      }
+    }
+    .dot {
+      width: 8px;
+      height: 8px;
+    }
+}
+
