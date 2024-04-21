@@ -1,3 +1,4 @@
+// script for carousel animation
 document.addEventListener("DOMContentLoaded", function () {
     const items = document.querySelectorAll(".carousel-item");
     const dotsContainer = document.querySelector(".carousel-controls");
@@ -20,7 +21,8 @@ document.addEventListener("DOMContentLoaded", function () {
       document.querySelector(".carousel-inner").style.transform = `translateX(${offset}%)`;
       setActiveDot(index);
     }
-  
+
+    // indicator for current slide on carousel
     function setActiveDot(index) {
       dots.forEach((dot, i) => {
         if (i === index) {
