@@ -382,13 +382,49 @@ ul li {
   align-items: center;
 }
 
-.carousel-controls {
+.prev {
   position: absolute;
   bottom: 20px;
   left: 50%;
   transform: translateX(-50%);
 }
 
+.carousel-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 50%;
+  transform: translateX(-50%);
+}
+
+
+.prev-arrow,
+.next-arrow {
+  width: 30px;
+  height: 30px;
+  background-color: #333;
+  color: #fff;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 10px;
+  transition: background-color 0.3s ease;
+}
+
+.prev-arrow:hover,
+.next-arrow:hover {
+  background-color: #555;
+}
+
+.carousel-item {
+  animation: fadeIn 0.5s ease-in-out forwards;
+}
+
+.carousel-item.hide {
+  animation: fadeOut 0.5s ease-in-out forwards;
+}
 .carousel-dot {
   width: 10px;
   height: 10px;
