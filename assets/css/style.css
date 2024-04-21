@@ -356,11 +356,13 @@ ul li {
 }
  /* Carousel styling */
  .carousel {
-  width: 300px;
-  height: 100px;
-  border: 1px solid #ccc;
+  width: 600px;
+  height: 300px;
+  border-radius: .25em;
+  box-shadow: 1em 1em 2em .25em rgba(0,0,0,.4);
   overflow: hidden;
   position: relative;
+  text-align: center;
 }
 
 .carousel-inner {
@@ -369,6 +371,7 @@ ul li {
 }
 
 .carousel-item {
+  font-family: 'Electrolize', sans-serif;
   flex: 0 0 100%;
   text-align: center;
   padding: 20px;
