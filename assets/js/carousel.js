@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.querySelector(".carousel-inner").style.transform = `translateX(${offset}px)`;
   }
 
+  // array for next and previous buttons
   function showNextItem() {
     if (currentIndex < items.length - 1) {
       goToItem(currentIndex + 1);
@@ -27,6 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
   
+  // Event listeners for next & previous buttons
   nextArrow.addEventListener("click", showNextItem);
   prevArrow.addEventListener("click", showPrevItem);
 
