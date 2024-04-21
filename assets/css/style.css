@@ -164,7 +164,6 @@ hr{
 
 #links a:hover {
   color: #d4b454;
-  transition: color 0.5s ease-out 50ms;
 }
 
 #links:hover,
@@ -415,7 +414,6 @@ ul li {
 .prev-arrow:hover,
 .next-arrow:hover {
   color:#d4b454;
-  transition: color 0.5s ease-out 50ms;
 }
 
 .carousel-item {
