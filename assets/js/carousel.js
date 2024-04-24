@@ -36,4 +36,4 @@ moveToSlide(currentIndex);
 
 setInterval(() => {
   moveToNextSlide();
-}, 5000);
+}, 10000);
