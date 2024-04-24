@@ -355,8 +355,8 @@ ul li {
       height: 8px;
     }
 }
- /* Carousel styling */
- .carousel {
+/* Carousel styling */
+.carousel {
   width: 100%;
   margin: 0 auto;
   height: 350px;
@@ -428,6 +428,7 @@ ul li {
 .next-arrow:hover {
   color: #d4b454;
 }
+
 /* progress bar styling */
 .green-bar-1{
   width: 14vw;
@@ -485,10 +486,77 @@ ul li {
   background-color: rgb(237, 7, 7, .7);
   border-radius: 2px;
 }
+
+/* progress bar shadow styling */
 .progress-bar{
   width: 15vw;
   height: 25px;
   background-color: rgba(211, 210, 210, 0.2);
   border-radius: 2px;
   margin: 0 auto;
+}
+
+/* Media query for smaller devices */
+@media screen and (max-width: 600px) {
+  .carousel {
+    height: 200px;
+  }
+
+  .carousel-item {
+    font-size: 1em;
+  }
+
+  .carousel-controls {
+    top: 45%;
+  }
+
+  .prev-arrow,
+  .next-arrow {
+    font-size: 20px;
+  }
+
+  .green-bar-1{
+    width: 7vw;
+    height: 10px;
+  }
+
+  .green-bar-2{
+    width: 7.25vw;
+    height: 10px;
+  }
+
+  .green-bar-3{
+    width: 6.5vw;
+    height: 10px;
+  }
+
+  .amber-bar-1{
+    width: 4.25vw;
+    height: 10px;
+  }
+
+  .amber-bar-2{
+    width: 3vw;
+    height: 10px;
+  }
+
+  .red-bar-1{
+    width: 1.75vw;
+    height: 10px;
+  }
+
+  .red-bar-2 {
+    width: 0.75vw;
+    height: 10px;
+  }
+
+  .red-bar-3 {
+    width: 2vw;
+    height: 10px;
+  }
+
+  .progress-bar {
+    width: 7.5vw;
+    height: 10px;
+  }
 }
