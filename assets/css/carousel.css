@@ -1,0 +1,206 @@
+/* Carousel styling */
+.carousel {
+    width: 100%;
+    margin: 0 auto;
+    height: 350px;
+    border-radius: 0.5em;
+    box-shadow: 1em 1em 2em 0.25em rgba(0, 0, 0, 0.4);
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+  }
+  
+  .carousel-inner {
+    display: flex;
+    transition: transform 0.5s ease;
+    height: 100%;
+  }
+  
+  .carousel-item {
+    font-family: 'Electrolize', sans-serif;
+    font-size: 1.2em;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transform: translateY(100%);
+    transition: all 0.5s ease;
+  }
+  
+  .carousel-item.active {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .carousel-item h3 {
+    margin-top: 0;
+  }
+  
+  /* Arrow styling */
+  .carousel-controls {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    transform: translateY(-50%);
+  }
+  
+  .prev-arrow,
+  .next-arrow {
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .prev-arrow {
+    position: absolute;
+    left: 10px;
+  }
+  
+  .next-arrow {
+    position: absolute;
+    right: 10px;
+  }
+  
+  .prev-arrow:hover,
+  .next-arrow:hover {
+    color: #d4b454;
+    transition: color 0.3s ease;
+  }
+  
+  /* progress bar styling */
+  .green-bar-1{
+    width: 14vw;
+    height: 25px;
+    background-color: rgb(19, 173, 91, .7);
+    border-radius: 2px;
+  }
+  
+  .green-bar-2{
+    width: 14.5vw;
+    height: 25px;
+    background-color: rgb(19, 173, 91, .7);
+    border-radius: 2px;
+  }
+  
+  .green-bar-3{
+    width: 13vw;
+    height: 25px;
+    background-color: rgb(19, 173, 91, .7);
+    border-radius: 2px;
+  }
+  
+  
+  .amber-bar-1{
+    width: 8.5vw;
+    height: 25px;
+    background-color: rgb(237, 141, 7, .7);
+    border-radius: 2px;
+  }
+  
+  .amber-bar-2{
+    width: 6vw;
+    height: 25px;
+    background-color: rgb(237, 141, 7, .7);
+    border-radius: 2px;
+  }
+  
+  .red-bar-1{
+    width: 3.75vw;
+    height: 25px;
+    background-color: rgb(237, 7, 7, .7);
+    border-radius: 2px;
+  }
+  
+  .red-bar-2 {
+    width: 1.5vw;
+    height: 25px;
+    background-color: rgb(237, 7, 7, .7);
+    border-radius: 2px;
+  }
+  
+  .red-bar-3 {
+    width: 4vw;
+    height: 25px;
+    background-color: rgb(237, 7, 7, .7);
+    border-radius: 2px;
+  }
+  
+  /* progress bar shadow styling */
+  .progress-bar{
+    width: 15vw;
+    height: 25px;
+    background-color: rgba(211, 210, 210, 0.2);
+    border-radius: 2px;
+    margin: 0 auto;
+  }
+  
+  /* Media query for smaller devices */
+  @media screen and (max-width: 600px) {
+    .carousel {
+      height: 200px;
+    }
+  
+    .carousel-item {
+      font-size: 1em;
+    }
+  
+    .carousel-controls {
+      top: 45%;
+    }
+  
+    .prev-arrow,
+    .next-arrow {
+      font-size: 20px;
+    }
+  
+    .green-bar-1{
+      width: 7vw;
+      height: 10px;
+    }
+  
+    .green-bar-2{
+      width: 7.25vw;
+      height: 10px;
+    }
+  
+    .green-bar-3{
+      width: 6.5vw;
+      height: 10px;
+    }
+  
+    .amber-bar-1{
+      width: 4.25vw;
+      height: 10px;
+    }
+  
+    .amber-bar-2{
+      width: 3vw;
+      height: 10px;
+    }
+  
+    .red-bar-1{
+      width: 1.75vw;
+      height: 10px;
+    }
+  
+    .red-bar-2 {
+      width: 0.75vw;
+      height: 10px;
+    }
+  
+    .red-bar-3 {
+      width: 2vw;
+      height: 10px;
+    }
+  
+    .progress-bar {
+      width: 7.5vw;
+      height: 10px;
+    }
+  }
