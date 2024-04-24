@@ -63,6 +63,14 @@ body {
   height: 100vh;
 }
 
+/* Footer styling */
+footer {
+  color: #e0e0e0;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 0.8em;
+  text-align: center;
+}
+
 @keyframes gradient {
   0% {
       background-position: 0% 0%;
@@ -133,13 +141,6 @@ body {
   background-size: contain;
 }
 
-/* Footer styling */
-footer {
-  color: #e0e0e0;
-  font-family: 'Orbitron', sans-serif;
-  font-size: 0.8em;
-  text-align: center;
-}
 
 hr{
   border: 0;
@@ -240,6 +241,10 @@ ul li {
   background-color: rgba(0, 31, 63, 0.45);
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.active {
+  color: #c5376f;
 }
 
 /* Container for the buttons */
