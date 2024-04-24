@@ -33,7 +33,3 @@ prevArrow.addEventListener('click', moveToPrevSlide);
 nextArrow.addEventListener('click', moveToNextSlide);
 
 moveToSlide(currentIndex);
-
-setInterval(() => {
-  moveToNextSlide();
-}, 10000);
