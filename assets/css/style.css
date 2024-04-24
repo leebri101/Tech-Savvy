@@ -427,6 +427,7 @@ ul li {
 .prev-arrow:hover,
 .next-arrow:hover {
   color: #d4b454;
+  transition: color 0.3s ease;
 }
 
 /* progress bar styling */
