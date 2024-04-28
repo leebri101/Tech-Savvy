@@ -245,6 +245,7 @@ ul li {
 
 .active-page {
   color: #c5376f;
+  font-weight: bold;
 }
 
 /* Container for the buttons */
