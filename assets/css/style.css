@@ -37,6 +37,14 @@ h3{
   text-align: center;
   padding: 2.5px;
 }
+ h6{
+  font-family: 'Electrolize', sans-serif;
+  color: #e0e0e0;
+  text-align: center;
+  padding: 2.5px;
+  text-wrap: wrap;  
+ }
+
 p{
   font-family: 'Electrolize', sans-serif;
   color:#e0e0e0;
