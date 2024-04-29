@@ -63,3 +63,18 @@ img {
     transition: color 0.5s ease;
 }
 
+.fa-gamepad{
+    color: #74C0FC;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    font-size: 275px;
+    justify-content: center;
+    align-items: center;
+}
+
+.fa-gamepad:hover,
+.fa-gamepad:focus {
+    color: #d4b454;
+    transition: color 0.5s ease;
+}
