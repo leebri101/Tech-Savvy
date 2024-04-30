@@ -8,6 +8,7 @@
     <!--CSS styling sheets-->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/about-style.css">
+    <link rel="stylesheet" href="assets/css/contact.css">
     <!--Favicon-->
     <link rel="icon" href="assets/images/favicon-32x32.png" type="image/x-icon" sizes="32x32">
     <title>Tech-Savvy</title>
@@ -27,30 +28,22 @@
     </div>
     <hr>
     <h2>Get In Touch</h2>
-    <div>
-        <section>
-            <!-- Contact Form -->
-            <form action="brian-lee@live.co.uk" method="post" enctype="text/plain"></form>>
-                <h3>Contact Me</h3>
-                <div>
-                    <label for="firstName">First Name:</label><br>
-                    <input type="text" id="firstName" name="firstName" required>
-                </div>
-                <div>
-                    <label for="lastName">Last Name:</label><br>
-                    <input type="text" id="lastName" name="lastName" required>
-                <div>
-                    <label for="email">Email:</label><br>
-                    <input type="email" id="email" name="email" required>
-                </div>
-                <div>
-                    <label for="message">Message:</label><br>
-                    <textarea id="message" name="message" required></textarea>
-                </div>
-                <button type="submit">Submit</button>
-            </form>
-        </section> 
-    </div>
+    <h3>Contact Me</h3>
+    <div class="contact-form">
+        <label for="first-name">First Name:</label>
+        <input type="text" id="first-name" name="first_name" required>
+  
+        <label for="last-name">Last Name:</label>
+        <input type="text" id="last-name" name="last_name" required>
+  
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+  
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" required></textarea>
+  
+        <input type="submit" value="Send">
+      </div>
     <!-- Wave animation just for display purposes-->
     <div>
         <div class="wave"></div>
