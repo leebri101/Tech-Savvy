@@ -1,6 +1,6 @@
 # **Tech-Savvy**
 ## **Site Preview**
-### Click here for the live page (https://leebri101.github.io/Tech-Savvy/)
+### Click here for the live page https://leebri101.github.io/Tech-Savvy/
 ## Contents-Page:
 1. [**Project-Planning**](#project-planning)
     * [**Target Audiences:**](#target-audiences)
@@ -168,27 +168,26 @@ Features used:
     * Different modes within the quiz for example:
         * A speed test to see how quick and accurate the user can answer the questions.
         * Different difficulites in place to challenge the user.
-***
+***-->
 ## **Deployment**
 The project has been deployed with the following steps: -
 
-1. Within the project's [repository](https://github.com/leebri101/Geographically-Challenged), you select the **Settings** tab.
+1. Within the project's [repository](https://github.com/leebri101/Tech-Savvy), you select the **Settings** tab.
 2. Then select the **Pages** menu tab on the left side.
 3. Under **Source** then, select the **Main** branch from the drop-down menu and click **Save**.
 4. A message will then pop up that the project has been successfully deployed with a live link.
 
-You can visit the live link via this URL - [Geographically Challenged](https://leebri101.github.io/Geographically-Challenged/)
+You can visit the live link via this URL or on the top the README file- [Tech-Savvy](https://leebri101.github.io/Tech-Savvy/)
 ***
--->
+
  ## **Credits**
 ### **Honorable mentions**
-This project was a nice refresher for my self to be able to gauge at how much i have improved from when I first started with little to no knowledge of coding to enjoying the challenges it brings me and for giving me the creative freedom to go beyond. However this will be (potentially be) an ongoing static site with a few improvements, as with each coding language that is being covered it will may or may not be potentially be implemented into the project portfolio. But i must credit the following people:
+This project was a nice refresher for my self to be able to gauge at how much i have improved from when I first started with little to no knowledge of coding to enjoying the challenges it brings me and for giving me the creative freedom to go beyond. However this will be (potentially be) an ongoing static site with a more improvements as i learn new coding languages, as with each coding language that is being covered it will may or may not be potentially be implemented into the project portfolio. But i must credit the following people:
  * John Lamontagne My Coding mentor who is incredible at giving me insight and suggestions on further improving my project and is a huge help to continuously support me for any sort of technical issues within the project.
 * My older brother for always being available for being a personal guinea pig for my projects (and as a non-coding person) and (with many more to come) and giving me constant constructive feedback all the time.
-
 ### **General reference:**
-* The project theme was based around a mixture of my past projects but to create a personal portfolio to showcase tpo clients and employers.
-* I have used W3Schools for a basic understanding and learning process for knowing some basic functionality as a way of reminding some stuff, and for general basic coding references and as general encyclopedia for any code related issues or ideas.
+* The project theme was based around a mixture of my past projects but to create a personal portfolio to showcase to clients and employers.
+* I have used W3Schools for a basic understanding and learning process for knowing some basic functionality as a way of reminding some stuff, and for general basic coding references and as general encyclopedia for any code related issues or ideas, some of the designs for the main parts of the page are taken from inspiration from CodePen. 
 
 ### **Content:**
 * All icons that were used throughout the project are sourced from [Font-Awesome](https://fontawesome.com/)
@@ -197,19 +196,18 @@ This project was a nice refresher for my self to be able to gauge at how much i 
 ### **Media:**
 * Contact page inspiration [Asana](https://asana.com/sales)
 * Favicon generator for index.html: [Favicon-Pro](https://www.favicon.pro/)
-* [GiSketch](https://gisketch.com/) for inspiration for the unique word animations and theme of coding. 
 * General RGB color Table used in style.css: [RGB-Table](https://www.rapidtables.com/web/color/RGB_Color.html)
 * Image compressions: [TinyPNG](https://tinypng.com/) 
-* Colored grid scheme: [EightShapes](https://contrast-grid.eightshapes.com/)
 * HubSpot for different styling of animations on CSS: [HubSpot](https://blog.hubspot.com/website/css-hover-animation)
 * RapidTables for general encyclopedia for searching for color themes: [RapidTables](https://www.rapidtables.com/web/color/RGB_Color.html)
-* [Figma](https://www.figma.com/?fuid=) for the basic and simple wire-frame design as a professional and practical project planning platform. 
+* For the basic and simple wire-frame design as a professional and practical project planning platform [Figma](https://www.figma.com/?fuid=).
+* CSS linear gradient animator via CodePen [CodePen](https://codepen.io/baarbaracrr/pen/KKovmGb) 
+* Animated slideshow [CodePen](https://codepen.io/mattfried/pen/LJNXVz) 
+* Scroll animation [CodePen](https://codepen.io/donovanh/pen/rmzNZJ)  
+* Alternative image converter to covertio. [FreeConvert](https://www.freeconvert.com/).
+* Image compress/converter [Convertio](https://convertio.co/). 
+*  Armored core 6 logo [Armored Core Fandom](https://armoredcore.fandom.com/wiki/ARMORED_CORE_VI_FIRES_OF_RUBICON/Emblems).
+* Px to rem/em converter [NekoCalc](https://nekocalc.com/px-to-rem-converter).
+* For styling color identifier [Color Hex](https://www.color-hex.com/) 
+* Image finder [Unsplash](https://unsplash.com/) 
 <!--
-* (https://www.eggradients.com/gradient/thin-saz)
-* (https://nekocalc.com/px-to-rem-converter)px to rem converter
-* (https://codepen.io/baarbaracrr/pen/KKovmGb) css linear gradient animator via CodePen
-* (https://unsplash.com/) image source finder
-* (https://convertio.co/) image compress/converter
-* (https://codepen.io/mattfried/pen/LJNXVz) Animated slideshow
-* (https://codepen.io/donovanh/pen/rmzNZJ) scroll animation
-* (https://armoredcore.fandom.com/wiki/ARMORED_CORE_VI_FIRES_OF_RUBICON/Emblems) armored core 6 logo 
