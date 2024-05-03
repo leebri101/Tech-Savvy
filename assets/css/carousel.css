@@ -43,7 +43,7 @@
     position: absolute;
     top: 50%;
     width: 100%;
-    transform: translateY(-50%);
+    transform: translateY(-75%);
   }
   
   .prev-arrow,
@@ -53,7 +53,6 @@
     text-align: center;
     cursor: pointer;
     display: inline-block;
-    margin: 0 10px;
     transition: background-color 0.3s ease;
   }
   
@@ -143,11 +142,11 @@
   /* Media query for smaller devices */
   @media screen and (max-width: 600px) {
     .carousel {
-      height: 200px;
+      height: 150px;
+      width: auto;
     }
-  
     .carousel-item {
-      font-size: 1em;
+      font-size: 0.75em;
     }
   
     .carousel-controls {
@@ -156,7 +155,8 @@
   
     .prev-arrow,
     .next-arrow {
-      font-size: 20px;
+      font-size: 10px;
+      color:#d4b454;
     }
   
     .green-bar-1{
