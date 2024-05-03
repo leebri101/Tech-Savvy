@@ -338,8 +338,8 @@ ul li {
   
   /* Logo styling for smaller media screen */
   #logo {
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
   }
 
   body {
@@ -372,5 +372,9 @@ ul li {
     height: 3px;
     background: #e0e0e0;
     background-image: linear-gradient(to right, #333333, #5aa2ab);
+  }
+
+  h1{
+    font-size: 2em;
   }
 }
