@@ -198,7 +198,6 @@ hr{
 
 a {
   text-align: center;
-  margin-top: 5%;
   margin-bottom: 2rem;
   color: #eee;
 }
@@ -332,7 +331,6 @@ ul li {
   border: solid 2px rgba(255, 255, 255, 0.5);
 }
 
-
 @media screen and (max-width: 600px) {
   .landing-content {
     font-size: 16px;
@@ -356,17 +354,23 @@ ul li {
     height: 300px;
   }
 
-    @media screen and (max-width: 600px) {
-      .circle {
-        width: 10px;
-        height: 10px;
-      }
-    }
-    .dot {
-      width: 8px;
-      height: 8px;
-    }
-    .btn {
-      font-size: 1em;
-    }
+  .circle {
+    width: 10px;
+    height: 10px;
+  }
+  
+  .dot {
+    width: 8px;
+    height: 8px;
+  }
+  .btn {
+    font-size: 1em;
+  }
+
+  hr{
+    border: 0;
+    height: 3px;
+    background: #e0e0e0;
+    background-image: linear-gradient(to right, #333333, #5aa2ab);
+  }
 }

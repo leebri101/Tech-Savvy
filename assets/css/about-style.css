@@ -66,14 +66,14 @@
     will-change: transform;
   }
   
+/* Styling for smaller devices*/
+@media screen and (max-width: 600px) {
+  header {
+    opacity: 0;
+    transition: opacity .4s .20s ease-out;
+  }
 
-  @media screen and (max-width: 600px) {
-    header {
-      opacity: 0;
-      transition: opacity .4s .20s ease-out;
-    }
-    
-    header.is-visible {
-      opacity: 1;
-    }
+  header.is-visible {
+    opacity: 1;
+  }
   }
