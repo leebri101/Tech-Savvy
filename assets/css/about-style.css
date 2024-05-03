@@ -1,3 +1,4 @@
+/* text box styling for about page*/
 .inline-box {
     border-radius: .25em;
     padding: 2em;
@@ -13,7 +14,7 @@
     will-change: transform, opacity;
     position: relative;
 }
-
+/* text box animation for about page*/
 .inline-box.is-visible {
     opacity: 1;
     transform: rotateZ(-2deg);

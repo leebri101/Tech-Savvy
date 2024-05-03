@@ -5,6 +5,7 @@ const prevArrow = carousel.querySelector('.prev-arrow');
 const nextArrow = carousel.querySelector('.next-arrow');
 let currentIndex = 0;
 
+// slide function for carousel items
 function moveToSlide(index) {
   for (let i = 0; i < carouselItems.length; i++) {
     carouselItems[i].classList.remove('active');
@@ -13,6 +14,7 @@ function moveToSlide(index) {
   currentIndex = index;
 }
 
+// Move to next slide function
 function moveToNextSlide() {
   if (currentIndex >= carouselItems.length - 1) {
     moveToSlide(0);
@@ -21,6 +23,7 @@ function moveToNextSlide() {
   }
 }
 
+// Move to previous slide function
 function moveToPrevSlide() {
   if (currentIndex === 0) {
     moveToSlide(carouselItems.length - 1);
@@ -29,6 +32,7 @@ function moveToPrevSlide() {
   }
 }
 
+// Event listeners for arrow keys
 prevArrow.addEventListener('click', moveToPrevSlide);
 nextArrow.addEventListener('click', moveToNextSlide);
 
