@@ -54,16 +54,21 @@
     cursor: pointer;
     display: inline-block;
     transition: background-color 0.3s ease;
+    
   }
   
   .prev-arrow {
     position: absolute;
     left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
   }
   
   .next-arrow {
     position: absolute;
     right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
   }
   
   .prev-arrow:hover,
