@@ -268,7 +268,6 @@ ul li {
   font-family: 'Orbitron', sans-serif;
   display: inline-block;
   padding: 10px 10px;
-  font-size: 1.2em;
   text-align: center;
   text-decoration: none;
   background-color: #5aa2ab;
@@ -367,5 +366,8 @@ ul li {
     .dot {
       width: 8px;
       height: 8px;
+    }
+    .btn {
+      font-size: 1em;
     }
 }
