@@ -46,6 +46,7 @@
     justify-content: center;
     align-items: center;
 }
+
 .fa-graduation-cap:hover,
 .fa-graduation-cap:focus {
     color: #d4b454;
@@ -65,4 +66,15 @@
 .fa-gamepad:focus {
     color: #d4b454;
     transition: color 0.5s ease;
+}
+
+@media screen and (max-width: 768px) {
+    .fa-graduation-cap,
+    .fa-gamepad {
+        font-size: 100px;
+    }
+
+    .container {
+        flex-direction: column;
+    }
 }
