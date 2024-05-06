@@ -61,15 +61,14 @@ There have been some considerable cosmetic changes to the static site to improve
 * An animated background on all pages. 
 
 
-
 ## **Current Features on all pages**
 ###  **Header**
-* The header has been placed in the top center of the page to allow for a easy transition between desktop and mobile so it doesn't affect the page in huge way. 
+* The header is placed within the center of the page for a smooth transition without any major bugs when navigating to other pages. 
 
- The header itself contains the following features: 
+ The header will contain these features: 
 
 ### *Title:*
-* The Title is there to show the name of the page.
+* To show the main attraction of the page/brand.
 
 ![Title](doc/screenshots/header.png)
 
