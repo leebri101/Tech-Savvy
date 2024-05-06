@@ -6,8 +6,7 @@
     * [**Target Audiences:**](#target-audiences)
     * [**User Stories**](#user-stories)
     * [**Site Objectives:**](#site-objectives)
-    * [**Wire Frames:**](#wire-frames)
-    * [**Reused Code**](#reused-code)
+    * [**Wire-Frames:**](#wire-frames)
 1. [**Current Features on all pages**](#current-features-on-all-pages)
     * [**Headers:**](#headers)
         * [*Title*](#Title)
@@ -44,10 +43,7 @@
 * As an employer I want to be able to gauge at how much the user has shown their creativity.
 * As a client I want to be able to see the work that the owner has done and be able to contact them for a future collaboration. 
 
-<!--
-
- -->   
-### **WireFrames:**
+### **Wire-Frames:**
 * To prevent any digressions towards the project aims & objectives I have made a basic wire-frame via [Figma](https://www.figma.com/file/uAbTphZwZsXFHnrtA8asCY/Welcome-to-FigJam?type=whiteboard&node-id=0%3A1&t=YDDw9WSsovAuHcRM-1) to refer back to in case of any major changes to the project. 
 
 [Wire-frame](doc/wireframe/) were all designed in Figma for a more simpler design.
@@ -57,22 +53,14 @@
 * [Projects Page](doc/wireframe/projects.png)
 * [Contact Page](doc/wireframe/contact.png)
 
-<!-->
-There was small changes the planned design of the static site however most of it was kept to teh original look but only with minor cosmetic changes,  which include:-
-* An interactive CTA play button which is changes color upon hovering.
-* A placeholder on the start-game section text box for players to input their names and warning to users if they start the game with no input in the text box.
-* An animation on the timer clock which shows a small stop watch shake after each second to indicate the user that time is ticking.
-* A hover animation over the 4 different choices of answers within the answers section of the quiz which change color whilst the animation occurs.
-* The results page having a box which shows the player's score and a coloured gradient on the border of the box which constantly spins around the edge of the box.
-* A small Favicon to act as an icon for the webpage.
+There have been some considerable cosmetic changes to the static site to improve the UX, however most of design was kept to original plan on the wireframes. Some of these changes may include:-
+* An interactive carousel at which the user can browse through manually.
+* A short automatic image gallery.
+* A blended in contact page (subject to change at a later date).
+* Some animations on some of teh typography on the pages. 
+* An animated background on all pages. 
 
 
-### **Reused Code:**
-* Some code has been re-used in from the first milestone project due to the simplicity and effectiveness it has on the overall layout of the final design.
-    * Which one of any said web-links have an original colous.
-    * Upon hovering over it or clicking it will change colors. 
-    * After visiting the said web-link it will change to a secondary color. With the hover effect in place.
-![Reused Code](doc/screenshots/reused-code.png)
 
 ## **Current Features on all pages**
 ###  **Header**
