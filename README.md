@@ -10,14 +10,14 @@
 1. [**Current Features on all pages**](#current-features-on-all-pages)
     * [**Headers:**](#headers)
         * [*Title*](#Title)
-        * [*Call To Action Button*](#call-to-action-button)
-        * [*Start Game Section*](#start-game-section)
-      * [**Quiz-Section**:](#quiz-section)
-          * [*Quiz-Tracker*](#quiz-tracker)
-      * [**Questions and Answers**:](#questions-and-answers)
-          * [*Q and A*](#q-and-a)
-    * [**Point-Tracker**](#point-tracker)
-    * [**Results-Section**](#results-section)
+        * [**](#)
+        * [**](#)
+      * [****](#)
+          * [**](#)
+      * [****:](#)
+          * [**](#)
+    * [****](#)
+    * [**Results-Section**](#)
     * [**Footer**](#footer)
     * [**Typesetting**](#typesetting)
 1. [**Potential-Features**](#future-enhancements)
@@ -68,9 +68,12 @@ There have been some considerable cosmetic changes to the static site to improve
  The header will contain these features: 
 
 ### *Title:*
-* To show the main attraction of the page/brand.
+* The Title will include some unique features:-
+    *   The main title of the pages all include an animated logo which was used from interesting insignia from Armored Core VI which eases in upon loading.
+    * Also with an animated title which appears and shifts the letters of the title.
+    * The page navigation will include an active link which highlights what page the user is on, as well as a hover affect which changes color for the user. 
 
-![Title](doc/screenshots/header.png)
+![Title](doc/screenshots/title.png)
 
 #### *Call To Action Button:*
 * The CTA is there with theme of the Earth to match the theme and catch the user's attention the moment that they enter the site. 
