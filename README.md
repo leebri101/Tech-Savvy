@@ -6,8 +6,7 @@
     * [**Target Audiences:**](#target-audiences)
     * [**User Stories**](#user-stories)
     * [**Site Objectives:**](#site-objectives)
-    * [**How Is This Will Be Achieved:**](#how-will-this-be-achieved)
-    * [**Color Scheme**](#color-scheme)
+    * [**Wire Frames:**](#wire-frames)
     * [**Reused Code**](#reused-code)
 1. [**Current Features on all pages**](#current-features-on-all-pages)
     * [**Headers:**](#headers)
@@ -46,13 +45,7 @@
 * As a client I want to be able to see the work that the owner has done and be able to contact them for a future collaboration. 
 
 <!--
-### **How will this be achieved:**
-* The landing page with have a simple CTA (Call To Action) input button at which the user must interact with to continue the quiz.
-* The page will have the following things:
-    * A large coloured CTA play button at which when the user/player hovers over, a small animation will occur and change colors briefly tempting the user to click it which leads to a different pop up to appear.
-    * A small text box which the user has to input their name to start the quiz, if nothing has been inputted the quiz cannot start.
-    * A series of questions out of ten which displays the question, and four different options at which the user must pick one correct answer to see if it is correct or not.
-    * A results page which gives feedback to players as to how many questions they have answered correctly out of 10. 
+
  -->   
 ### **WireFrames:**
 * To prevent any digressions towards the project aims & objectives I have made a basic wire-frame via [Figma](https://www.figma.com/file/uAbTphZwZsXFHnrtA8asCY/Welcome-to-FigJam?type=whiteboard&node-id=0%3A1&t=YDDw9WSsovAuHcRM-1) to refer back to in case of any major changes to the project. 
@@ -73,10 +66,6 @@ There was small changes the planned design of the static site however most of it
 * The results page having a box which shows the player's score and a coloured gradient on the border of the box which constantly spins around the edge of the box.
 * A small Favicon to act as an icon for the webpage.
 
-### **Color Scheme:**
- * When creating the design of the quiz site I have went with this color scheme to match the overall theme of georgraphy with the colors of the earth having blue and green elements.  
-
- ![Contrast Grid](doc/screenshots/color-scheme.png)
 
 ### **Reused Code:**
 * Some code has been re-used in from the first milestone project due to the simplicity and effectiveness it has on the overall layout of the final design.
