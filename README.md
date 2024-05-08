@@ -3,16 +3,16 @@
 ### Click here for the live page https://leebri101.github.io/Tech-Savvy/
 ## Contents-Page:
 1. [**Project-Planning**](#project-planning)
-    * [**Target Audiences:**](#target-audiences)
+    * [**Target Audiences**](#target-audiences)
     * [**User Stories**](#user-stories)
-    * [**Site Objectives:**](#site-objectives)
-    * [**Wire-Frames:**](#wire-frames)
+    * [**Site Objectives**](#site-objectives)
+    * [**Wire-Frames**](#wire-frames)
 1. [**Current Features on all pages**](#current-features-on-all-pages)
     * [**Home-Page:**](#home-page)
         * [*Title*](#title)
-        * [*Button and Page Navi*](#button-and-page-navi)
-        * [**](#)
-      * [****](#)
+        * [*Buttons and Page Navi*](#buttons-and-page-navi)
+    * [*About-Page*](#about-page)
+    * [*Skills-Page*](#skills-page)
           * [**](#)
       * [****:](#)
           * [**](#)
@@ -77,7 +77,7 @@ There have been some considerable cosmetic changes to the static site to improve
 
 ![Title](doc/screenshots/title.png)
 
-#### *Buttons and Page Navi*
+#### *Buttons and Page Navi:*
 * The main home page will have 3 separate buttons at which the user can navigate without having to manually click & hover over at page links, the most notable features that have been used :
     * A simple but clean hover over effect where it transitions into a dark navy blue to match the theme of the page.
     * An active page navigation where it allows the user to hover over the different page links and show which page they are currently on.  
@@ -92,19 +92,16 @@ There have been some considerable cosmetic changes to the static site to improve
 #### *About-Page:*
 * Within this part of the page showcases a brief summary of my life and why I went into coding, my educational background, and a personal message. But as a simple design(subject to change) i have included these subtle floating texts boxes that blend in well with the background page.
 
-  ![About-Page](doc/screenshots/placeholder-input.png)
-<!-->
-* A static contact form (subject to change at a later date) where the user can input their details if they wish to contact me for projects or opportunities.
-    * A four color linear gradient page where it blends in with the semi brightest to darkest colors for an appealing visual affect.-->
-### **Quiz-Section**:
-#### *Quiz-tracker:*
+  ![About-Page](doc/screenshots/about-page.png)
+
+### **Skills-Page:**
 Features used:
 * A indicator display to track the current question number the user is on out of the total quiz questions.
 * A countdown timer with a animation which moves each time a second is lost within the alloted time length.
 * A countdown bar to also track time but visually display the length of time left in the bar.
 ![Quiz-section](doc/screenshots/tracker-update.png)
 
-### **Questions and Answers**:
+### **Questions and Answers**
 #### *Q and A:*
 Features used:
 * A question with a four choice option answer selector. 
