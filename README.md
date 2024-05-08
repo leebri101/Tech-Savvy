@@ -18,9 +18,8 @@
         * [*Back-End*](#back-end)
         * [*Miscellaneous*](#miscellaneous)
     * [*Projects-Page:*](#projects-page)
-        * [**](#)
-    * [****](#)
-    * [****](#)
+        * [*Mobile-Version*](#mobile-version)
+    * [*Contact-Page*](#contact-page)
     * [**Footer**](#footer)
     * [**Typesetting**](#typesetting)
 1. [**Potential-Features**](#future-enhancements)
@@ -80,7 +79,7 @@ There have been some considerable cosmetic changes to the static site to improve
 
 ![Title](doc/screenshots/title.png)
 
-#### *Buttons and Page Navi:*
+### *Buttons and Page Navi:*
 * The main home page will have 3 separate buttons at which the user can navigate without having to manually click & hover over at page links, the most notable features that have been used :
     * A simple but clean hover over effect where it transitions into a dark navy blue to match the theme of the page.
     * An active page navigation where it allows the user to hover over the different page links and show which page they are currently on.  
@@ -92,12 +91,12 @@ There have been some considerable cosmetic changes to the static site to improve
 
 ![Mobile-version](doc/screenshots/mobile-home.png)
 
-#### *About-Page:*
+#### **About-Page:**
 * Within this part of the page showcases a brief summary of my life and why I went into coding, my educational background, and a personal message. But as a simple design(subject to change) i have included these subtle floating texts boxes that blend in well with the background page.
 
   ![About-Page](doc/screenshots/about-page.png)
 
-### **Skills-Page:**
+#### **Skills-Page:**
 * The Skills page shows a rough but honest estimate of my personal skill levels when it comes to coding but it is displayed in a traffic light system (Green = pro-efficient, Amber = Has some knowledge of it, Red = Hasn't learnt/is currently learning) which shows the user my proficiency levels when it comes to coding but it will have a simple design of a manual JavaScript carousel which the user can manually click on which is comprised of these four components:
     ### *Core-Languages:*
     * Comprises of HTML/CSS and JavaScript 
@@ -123,32 +122,24 @@ There have been some considerable cosmetic changes to the static site to improve
 
 ![Skill-Page](doc/screenshots/skills.png)
 
-### **Projects-Page**
-* The original design of the page was supposed to be within a boxed container within a pyramid scheme of each of the projects at which the user can navigate to which directly sends them to a new tab of each of the projects listed in its respectable links with the inclusion of 2 unique GIFs to display to the user.
+### **Projects-Page:**
+* The original design of the page was supposed to be within a boxed container within a pyramid scheme of each of the projects at which the user can navigate to which directly sends them to a new tab of each of the projects listed in its respectable links with the inclusion of 2 unique GIFs to display to the user.(I have also placed a disclaimer note on project 3 as the live link is broken and will be amended at a later date).
 
 ![Projects-Page](doc/screenshots/project-page.png)
 
-    *  
+### *Mobile-Version:*
+* Mobile version of the projects-page with an inter-changeable design of a horizontal view of the projects to a vertical view (Fully view on live link).
 
-    ![Mobile-Project](doc/screenshots/mobile-project.png)
+![Mobile-Project](doc/screenshots/mobile-project.png)
 
-![Quiz-Questions](doc/screenshots/quiz-questions.png)
-
-## **Point-Tracker**
-* The point tracker is used to display to the user whether they have; answered the question correctly, gave an incorrect answer, did not give answer and to show which answer they are currently on.
+## **Contact-Page**
+* The contact page will have a none-working function at which the user can input all their details with the functionality of a contact form but it users will not be able to submit anything (due to the lack of knowledge of PHP).
 * The point tracker is indicated in four different colors:
     * Green: Meaning the user has answered the question correctly.
     * Red: Meaning the user has answered incorrectly.
     * Gray: Meaning the user has ran out of time or can alternatively skip the question.
     * Yellow: To indicate to the user that they are on the current question.
 ![](doc/screenshots/progress-tracker.png)
-
-## **Results-Section**
-* The results sections shows the following things:
-    * The users score out of 10.
-    * A feedback message to the user as to whatever associated score they have recieved.
-    * A Play Again button if the users wishes to replay the quiz again.
-![Resuts-Section](doc/screenshots/results-page.png)
 
 ## **Footer**
 * All icons that were used in the footer is sourced from font awesome.
