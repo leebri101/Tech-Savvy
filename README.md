@@ -91,12 +91,12 @@ There have been some considerable cosmetic changes to the static site to improve
 
 ![Mobile-version](doc/screenshots/mobile-home.png)
 
-#### **About-Page:**
+### **About-Page:**
 * Within this part of the page showcases a brief summary of my life and why I went into coding, my educational background, and a personal message. But as a simple design(subject to change) i have included these subtle floating texts boxes that blend in well with the background page.
 
   ![About-Page](doc/screenshots/about-page.png)
 
-#### **Skills-Page:**
+### **Skills-Page:**
 * The Skills page shows a rough but honest estimate of my personal skill levels when it comes to coding but it is displayed in a traffic light system (Green = pro-efficient, Amber = Has some knowledge of it, Red = Hasn't learnt/is currently learning) which shows the user my proficiency levels when it comes to coding but it will have a simple design of a manual JavaScript carousel which the user can manually click on which is comprised of these four components:
     ### *Core-Languages:*
     * Comprises of HTML/CSS and JavaScript 
@@ -122,7 +122,7 @@ There have been some considerable cosmetic changes to the static site to improve
 
 ![Skill-Page](doc/screenshots/skills.png)
 
-#### **Projects-Page:**
+### **Projects-Page:**
 * The original design of the page was supposed to be within a boxed container within a pyramid scheme of each of the projects at which the user can navigate to which directly sends them to a new tab of each of the projects listed in its respectable links with the inclusion of 2 unique GIFs to display to the user.(I have also placed a disclaimer note on project 3 as the live link is broken and will be amended at a later date).
 
 ![Projects-Page](doc/screenshots/project-page.png)
@@ -132,7 +132,7 @@ There have been some considerable cosmetic changes to the static site to improve
 
 ![Mobile-Project](doc/screenshots/mobile-project.png)
 
-#### **Contact-Page:**
+### **Contact-Page:**
 * The contact page will have a none-working function at which the user can input all their details with the functionality of a contact form but it users will not be able to submit anything (due to the lack of knowledge of PHP).
 ![Contact-Page](doc/screenshots/contact-page.png)
 
