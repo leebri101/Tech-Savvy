@@ -140,16 +140,22 @@ There have been some considerable cosmetic changes to the static site to improve
 * The Mobile version will have a shrunken down version of the contact form with the animation of one of imagery in the background of the contact which is viewable on mobile devices.
 ![Mobile-Version](doc/screenshots/mobile-contact.png)
 
-#### **Footer**
-* All icons that were used in the footer is sourced from font awesome.
-* A personal copyright has been added in-case of plagiarism.
-* A personal link to my GitHub page which users can track my coding journey.
-![Footer-Page](doc/screenshots/footer.png)
+### **Footer:**
+The footer page has a wave animation at which it is only used for display purposes which blends in very well with the background. 
+* These are the features that have been used in the footer:
+    * All the icons that were used in the project have been sourced by through Font Awesome. 
+    * A personal copyright has been added in-case of plagiarism.
+    * A personal link to my GitHub page which users can track my coding journey and the link to my Linkedin page.
+
+    ![Footer-Page](doc/screenshots/footer-page.png)
 
 ## **Typesetting**
- Throughout the second project milestone only this font was used:
-  * Poppins - for a more simplistic look to users so it not too much for them.
-* Fonts that have used in the project have been sourced from Google Fonts (quoted in the credits).
+ Throughout the Project Portfolio only two fonts was used throughout for consistency:
+  * Electrolize - for a more readable cybernetic look to the text.
+  
+  * Orbitron - for a more retro cyberpunk look. 
+
+* Please note that all fonts that have used in the project have been sourced from Google Fonts (quoted in the credits).
 
 ## **Potential-Features**
 * 
@@ -178,6 +184,7 @@ You can visit the live link via this URL or on the top the README file- [Tech-Sa
 This project was a nice refresher for my self to be able to gauge at how much i have improved from when I first started with little to no knowledge of coding to enjoying the challenges it brings me and for giving me the creative freedom to go beyond. However this will be (potentially be) an ongoing static site with a more improvements as i learn new coding languages, as with each coding language that is being covered it will may or may not be potentially be implemented into the project portfolio. But i must credit the following people:
  * John Lamontagne My Coding mentor who is incredible at giving me insight and suggestions on further improving my project and is a huge help to continuously support me for any sort of technical issues within the project.
 * My older brother for always being available for being a personal guinea pig for my projects (and as a non-coding person) and (with many more to come) and giving me constant constructive feedback all the time.
+
 ### **General reference:**
 * The project theme was based around a mixture of my past projects but to create a personal portfolio to showcase to clients and employers.
 * I have used W3Schools for a basic understanding and learning process for knowing some basic functionality as a way of reminding some stuff, and for general basic coding references and as general encyclopedia for any code related issues or ideas, some of the designs for the main parts of the page are taken from inspiration from CodePen. 
@@ -202,5 +209,4 @@ This project was a nice refresher for my self to be able to gauge at how much i 
 *  Armored core 6 logo [Armored Core Fandom](https://armoredcore.fandom.com/wiki/ARMORED_CORE_VI_FIRES_OF_RUBICON/Emblems).
 * Px to rem/em converter [NekoCalc](https://nekocalc.com/px-to-rem-converter).
 * For styling color identifier [Color Hex](https://www.color-hex.com/) 
-* Image finder [Unsplash](https://unsplash.com/) 
-<!--
+* Image finder [Unsplash](https://unsplash.com/)
