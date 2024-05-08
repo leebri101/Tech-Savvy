@@ -14,6 +14,9 @@
     * [*About-Page*](#about-page)
     * [*Skills-Page*](#skills-page)
         * [*Core-Languages*](#core-languages)
+        * [*Advanced Front-End*](#advanced-front-end)
+        * [*Back-End*](#back-end)
+        * [*Miscellaneous*](#miscellaneous)
     * [****:](#)
         * [**](#)
     * [****](#)
@@ -116,7 +119,7 @@ There have been some considerable cosmetic changes to the static site to improve
 
     ![Miscellaneous](doc/screenshots/other.png)
 
-* THe user can manually navigate with ease to have a look at my current skill levels all contained in a simple but effect carousel. Each end will have two chevrons at which have a hover effect and turn a sandy gold upon moving the mouse (as seen above in the Miscellaneous image) 
+* The user can manually navigate with ease to have a look at my current skill levels all contained in a simple but effect carousel. Each end will have two chevrons at which have a hover effect and turn a sandy gold upon moving the mouse (as seen above in the Miscellaneous image) 
 
 ![Skill-Page](doc/screenshots/skills.png)
 
