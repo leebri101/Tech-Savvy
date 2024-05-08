@@ -13,9 +13,9 @@
         * [*Buttons and Page Navi*](#buttons-and-page-navi)
     * [*About-Page*](#about-page)
     * [*Skills-Page*](#skills-page)
-          * [**](#)
-      * [****:](#)
-          * [**](#)
+        * [*Core-Languages*](#core-languages)
+    * [****:](#)
+        * [**](#)
     * [****](#)
     * [****](#)
     * [**Footer**](#footer)
@@ -95,6 +95,32 @@ There have been some considerable cosmetic changes to the static site to improve
   ![About-Page](doc/screenshots/about-page.png)
 
 ### **Skills-Page:**
+* The Skills page shows a rough but honest estimate of my personal skill levels when it comes to coding but it is displayed in a traffic light system (Green = pro-efficient, Amber = Has some knowledge of it, Red = Hasn't learnt/is currently learning) which shows the user my proficiency levels when it comes to coding but it will have a simple design of a manual JavaScript carousel which the user can manually click on which is comprised of these four components:
+    ### *Core-Languages:*
+    * Comprises of HTML/CSS and JavaScript 
+
+    ![Core-Languages](doc/screenshots/core.png)
+
+    ### *Advanced Front-End:*
+    * Containing React, Redux and Bootstrap
+
+    ![Front-End](doc/screenshots/advanced-front-end.png)
+    
+    ### *Back-End:*
+    * Comprising of Python, REST Django and SQL
+
+    ![Back-End](doc/screenshots/backend.png)
+
+    ### *Miscellaneous:*
+    * Other components such as Git/GIthub, Figma/Canva and Miro
+
+    ![Miscellaneous](doc/screenshots/other.png)
+
+* THe user can manually navigate with ease to have a look at my current skill levels all contained in a simple but effect carousel. Each end will have two chevrons at which have a hover effect and turn a sandy gold upon moving the mouse (as seen above in the Miscellaneous image) 
+
+![Skill-Page](doc/screenshots/skills.png)
+
+
 Features used:
 * A indicator display to track the current question number the user is on out of the total quiz questions.
 * A countdown timer with a animation which moves each time a second is lost within the alloted time length.
