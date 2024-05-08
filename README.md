@@ -11,13 +11,13 @@
     * [**Home-Page:**](#home-page)
         * [*Title*](#title)
         * [*Buttons and Page Navi*](#buttons-and-page-navi)
-    * [*About-Page*](#about-page)
-    * [*Skills-Page*](#skills-page)
+    * [*About-Page:*](#about-page)
+    * [*Skills-Page:*](#skills-page)
         * [*Core-Languages*](#core-languages)
         * [*Advanced Front-End*](#advanced-front-end)
         * [*Back-End*](#back-end)
         * [*Miscellaneous*](#miscellaneous)
-    * [*Projects-Page*:](#projects-page)
+    * [*Projects-Page:*](#projects-page)
         * [**](#)
     * [****](#)
     * [****](#)
@@ -126,9 +126,11 @@ There have been some considerable cosmetic changes to the static site to improve
 ### **Projects-Page**
 * The original design of the page was supposed to be within a boxed container within a pyramid scheme of each of the projects at which the user can navigate to which directly sends them to a new tab of each of the projects listed in its respectable links with the inclusion of 2 unique GIFs to display to the user.
 
-![Projects-Page](doc/screenshots/)
+![Projects-Page](doc/screenshots/project-page.png)
 
-![Mobile-Project](doc/screenshots/)
+    *  
+
+    ![Mobile-Project](doc/screenshots/mobile-project.png)
 
 ![Quiz-Questions](doc/screenshots/quiz-questions.png)
 
