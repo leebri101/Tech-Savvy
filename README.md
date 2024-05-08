@@ -17,7 +17,7 @@
         * [*Advanced Front-End*](#advanced-front-end)
         * [*Back-End*](#back-end)
         * [*Miscellaneous*](#miscellaneous)
-    * [****:](#)
+    * [*Projects-Page*:](#projects-page)
         * [**](#)
     * [****](#)
     * [****](#)
@@ -123,20 +123,12 @@ There have been some considerable cosmetic changes to the static site to improve
 
 ![Skill-Page](doc/screenshots/skills.png)
 
+### **Projects-Page**
+* The original design of the page was supposed to be within a boxed container within a pyramid scheme of each of the projects at which the user can navigate to which directly sends them to a new tab of each of the projects listed in its respectable links with the inclusion of 2 unique GIFs to display to the user.
 
-Features used:
-* A indicator display to track the current question number the user is on out of the total quiz questions.
-* A countdown timer with a animation which moves each time a second is lost within the alloted time length.
-* A countdown bar to also track time but visually display the length of time left in the bar.
-![Quiz-section](doc/screenshots/tracker-update.png)
+![Projects-Page](doc/screenshots/)
 
-### **Questions and Answers**
-#### *Q and A:*
-Features used:
-* A question with a four choice option answer selector. 
-* Users being able to select any answer before clicking next to proceed to the next question.
-* Each answer having a hover animation with a color changing function,  the color also changes when the user clicks on answer. 
-* The Fisher-Yates method used to shuffle all the questions and answers to any given random order out of ten. So no same question is used twice.
+![Mobile-Project](doc/screenshots/)
 
 ![Quiz-Questions](doc/screenshots/quiz-questions.png)
 
