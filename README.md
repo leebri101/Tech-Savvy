@@ -8,16 +8,16 @@
     * [**Site Objectives:**](#site-objectives)
     * [**Wire-Frames:**](#wire-frames)
 1. [**Current Features on all pages**](#current-features-on-all-pages)
-    * [**Header:**](#header)
-        * [*Title*](#Title)
-        * [*Button & Page Navigation*](#)
+    * [**Home-Page:**](#home-page)
+        * [*Title*](#title)
+        * [*Button and Page Navi*](#button-and-page-navi)
         * [**](#)
       * [****](#)
           * [**](#)
       * [****:](#)
           * [**](#)
     * [****](#)
-    * [**Results-Section**](#)
+    * [****](#)
     * [**Footer**](#footer)
     * [**Typesetting**](#typesetting)
 1. [**Potential-Features**](#future-enhancements)
@@ -62,10 +62,12 @@ There have been some considerable cosmetic changes to the static site to improve
 
 
 ## **Current Features on all pages**
-###  **Header:**
-* The header is placed within the center of the page for a smooth transition without any major bugs when navigating to other pages. 
-
- The header will contain these features: 
+###  **Home-Page:**
+* The home-page will have multiple unique features which the user can do upon navigating which will contain these most notable  features:
+    * A linear gradient background.
+    * Three CTA(Call To Action) buttons which the user can skip directly specific pages.
+    * An automatic image carousel.
+    * Wave animation on the footer.
 
 ### *Title:*
 * The Title will include some unique features:-
@@ -75,27 +77,25 @@ There have been some considerable cosmetic changes to the static site to improve
 
 ![Title](doc/screenshots/title.png)
 
-#### *Buttons & Page Navi*
-* The main home page will have 3 separate buttons at which the user can navigate without having to manually click  & hover over at page links, the most notable features that have been used :
+#### *Buttons and Page Navi*
+* The main home page will have 3 separate buttons at which the user can navigate without having to manually click & hover over at page links, the most notable features that have been used :
     * A simple but clean hover over effect where it transitions into a dark navy blue to match the theme of the page.
-    * An active weblink 
+    * An active page navigation where it allows the user to hover over the different page links and show which page they are currently on.  
     * Direct web-links where it take the user to my GitHub so that they can manually view each of my projects. 
-    * A static contact form (subject to change at a later date) where the user can input their details if they wish to contact me for projects or opportunities.
     
 ![Buttons & Page Navi](doc/screenshots/home-page.png)
     
-* Mobile version of CTA button with header and footer.
+* Mobile version of home page with title, icon, buttons and web-links.
 
-![Mobile-version](doc/screenshots/mobile-version.png)
+![Mobile-version](doc/screenshots/mobile-home.png)
 
-#### *Start Game Section:*
-* The start game section has an autofocus placeholder on the text box which allows for more accessbilty to the user, which is useful on mobile devices as the text cursor is already highlighted in the text box which saves time for the user to manually navigate to it as. 
-* Two interactive buttons for the user to input one of which is the Start Game, which upon text input and clicking the button will send the user to commence the geography quiz. The Quit button will send the user back to the main screen where the CTA button is displayed.
-* A error handler which dilays a red border in the text box if the user hasn't provided any sort of text or name.
-* An event listener where the user can press the ENTER key which has the same response as clicking the Start game button. 
+#### *About-Page:*
+* Within this part of the page showcases a brief summary of my life and why I went into coding, my educational background, and a personal message. But as a simple design(subject to change) i have included these subtle floating texts boxes that blend in well with the background page.
 
   ![Start Game Section](doc/screenshots/placeholder-input.png)
-
+<!-->
+* A static contact form (subject to change at a later date) where the user can input their details if they wish to contact me for projects or opportunities.
+    * A four color linear gradient page where it blends in with the semi brightest to darkest colors for an appealing visual affect.-->
 ### **Quiz-Section**:
 #### *Quiz-tracker:*
 Features used:
