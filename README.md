@@ -152,22 +152,20 @@ The footer page has a wave animation at which it is only used for display purpos
 ## **Typesetting**
  Throughout the Project Portfolio only two fonts was used throughout for consistency:
   * Electrolize - for a more readable cybernetic look to the text.
-  
+
   * Orbitron - for a more retro cyberpunk look. 
 
 * Please note that all fonts that have used in the project have been sourced from Google Fonts (quoted in the credits).
 
 ## **Potential-Features**
-* 
-    * An interactive version with sounds and unique animations.
-    * Potentially adding a leaderboard system/table to challenge and rival other users.
-    * A narration voice over for all the questions and answers for users with disablity issues.
-    * A mixture of sound, images and text based questions and answers.
-    * A shuffler for answer as well.
-    * Different modes within the quiz for example:
-        * A speed test to see how quick and accurate the user can answer the questions.
-        * Different difficulites in place to challenge the user.
-***-->
+* This personal project portfolio page with be an ongoing improvement as i study more advanced coding to change and improve the appearance of the page and functionalities:
+    * A possible interactive start up function to allow users to interact with the page (with sound and an insignia). 
+    * A fully functional contact form that can redirect users to enable them to contact me. 
+    * A different more cleaner animated background with small but subtle features to it like glowing and floating dots.
+    * A typewriter effect for the about page which manually shows a new text box for each new text box. 
+    * a proper animated bar where it displays the skill level of my coding knowledge.
+    * These will be some of the possible changes that i would like to implement at a later date with more knowledge that has been gained over time.
+
 ## **Deployment**
 The project has been deployed with the following steps: -
 
@@ -179,7 +177,7 @@ The project has been deployed with the following steps: -
 You can visit the live link via this URL or on the top the README file- [Tech-Savvy](https://leebri101.github.io/Tech-Savvy/)
 ***
 
- ## **Credits**
+## **Credits**
 ### **Honorable mentions**
 This project was a nice refresher for my self to be able to gauge at how much i have improved from when I first started with little to no knowledge of coding to enjoying the challenges it brings me and for giving me the creative freedom to go beyond. However this will be (potentially be) an ongoing static site with a more improvements as i learn new coding languages, as with each coding language that is being covered it will may or may not be potentially be implemented into the project portfolio. But i must credit the following people:
  * John Lamontagne My Coding mentor who is incredible at giving me insight and suggestions on further improving my project and is a huge help to continuously support me for any sort of technical issues within the project.
@@ -192,7 +190,7 @@ This project was a nice refresher for my self to be able to gauge at how much i 
 ### **Content:**
 * All icons that were used throughout the project are sourced from [Font-Awesome](https://fontawesome.com/)
 * All fonts used have been imported from - [Google-Fonts](https://fonts.google.com/)
--->
+
 ### **Media:**
 * Contact page inspiration [Asana](https://asana.com/sales)
 * Favicon generator for index.html: [Favicon-Pro](https://www.favicon.pro/)
