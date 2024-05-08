@@ -8,9 +8,9 @@
     * [**Site Objectives:**](#site-objectives)
     * [**Wire-Frames:**](#wire-frames)
 1. [**Current Features on all pages**](#current-features-on-all-pages)
-    * [**Headers:**](#headers)
+    * [**Header:**](#header)
         * [*Title*](#Title)
-        * [**](#)
+        * [*Button & Page Navigation*](#)
         * [**](#)
       * [****](#)
           * [**](#)
@@ -62,7 +62,7 @@ There have been some considerable cosmetic changes to the static site to improve
 
 
 ## **Current Features on all pages**
-###  **Header**
+###  **Header:**
 * The header is placed within the center of the page for a smooth transition without any major bugs when navigating to other pages. 
 
  The header will contain these features: 
@@ -75,10 +75,14 @@ There have been some considerable cosmetic changes to the static site to improve
 
 ![Title](doc/screenshots/title.png)
 
-#### *Call To Action Button:*
-* The CTA is there with theme of the Earth to match the theme and catch the user's attention the moment that they enter the site. 
+#### *Buttons & Page Navi*
+* The main home page will have 3 separate buttons at which the user can navigate without having to manually click  & hover over at page links, the most notable features that have been used :
+    * A simple but clean hover over effect where it transitions into a dark navy blue to match the theme of the page.
+    * An active weblink 
+    * Direct web-links where it take the user to my GitHub so that they can manually view each of my projects. 
+    * A static contact form (subject to change at a later date) where the user can input their details if they wish to contact me for projects or opportunities.
     
-![CTA Button](doc/screenshots/cta-play-button.png)
+![Buttons & Page Navi](doc/screenshots/home-page.png)
     
 * Mobile version of CTA button with header and footer.
 
