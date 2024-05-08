@@ -122,7 +122,7 @@ There have been some considerable cosmetic changes to the static site to improve
 
 ![Skill-Page](doc/screenshots/skills.png)
 
-### **Projects-Page:**
+#### **Projects-Page:**
 * The original design of the page was supposed to be within a boxed container within a pyramid scheme of each of the projects at which the user can navigate to which directly sends them to a new tab of each of the projects listed in its respectable links with the inclusion of 2 unique GIFs to display to the user.(I have also placed a disclaimer note on project 3 as the live link is broken and will be amended at a later date).
 
 ![Projects-Page](doc/screenshots/project-page.png)
@@ -132,18 +132,17 @@ There have been some considerable cosmetic changes to the static site to improve
 
 ![Mobile-Project](doc/screenshots/mobile-project.png)
 
-## **Contact-Page**
+#### **Contact-Page:**
 * The contact page will have a none-working function at which the user can input all their details with the functionality of a contact form but it users will not be able to submit anything (due to the lack of knowledge of PHP).
-* The point tracker is indicated in four different colors:
-    * Green: Meaning the user has answered the question correctly.
-    * Red: Meaning the user has answered incorrectly.
-    * Gray: Meaning the user has ran out of time or can alternatively skip the question.
-    * Yellow: To indicate to the user that they are on the current question.
-![](doc/screenshots/progress-tracker.png)
+![Contact-Page](doc/screenshots/contact-page.png)
 
-## **Footer**
+### *Mobile-Version*
+* The Mobile version will have a shrunken down version of the contact form with the animation of one of imagery in the background of the contact which is viewable on mobile devices.
+![Mobile-Version](doc/screenshots/mobile-contact.png)
+
+#### **Footer**
 * All icons that were used in the footer is sourced from font awesome.
-* A personal copyright has been added in-case of plagerism.
+* A personal copyright has been added in-case of plagiarism.
 * A personal link to my GitHub page which users can track my coding journey.
 ![Footer-Page](doc/screenshots/footer.png)
 
