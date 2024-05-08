@@ -92,7 +92,7 @@ There have been some considerable cosmetic changes to the static site to improve
 #### *About-Page:*
 * Within this part of the page showcases a brief summary of my life and why I went into coding, my educational background, and a personal message. But as a simple design(subject to change) i have included these subtle floating texts boxes that blend in well with the background page.
 
-  ![Start Game Section](doc/screenshots/placeholder-input.png)
+  ![About-Page](doc/screenshots/placeholder-input.png)
 <!-->
 * A static contact form (subject to change at a later date) where the user can input their details if they wish to contact me for projects or opportunities.
     * A four color linear gradient page where it blends in with the semi brightest to darkest colors for an appealing visual affect.-->
